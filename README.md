@@ -14,4 +14,4 @@ We created these self-signed certificates for certain purposes.
 * Legacy_RCRoot.cer - Legacy RainCandy Technology Primary Root CA, used before 10/01/2022.
 * RainCandy_RootCA_Win.cer - RainCandy Technology Root Authority for Windows, used before 12/31/2022.
 * RainCandy_RootCA_Win_Legacy.cer - RainCandy Technology Root Authority for Windows, used before 10/01/2022.
-* RainCandy_RootCA_WinDrv.cer - RainCandy Technology Root CA For Windows Drivers, used after 11/15/2022.
+* RainCandy_RootCA_WinDrv.cer - RainCandy Technology Root CA For Windows Drivers, used before 01/06/2024.
