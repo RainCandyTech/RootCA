@@ -3,8 +3,8 @@
 
 ## Notice
 The "New RainCandy Technology Primary Root CA" (New_RCRoot.cer) is now deprecated, because it has been blacklisted by Microsoft Defender.<br>
-(Microsoft Defender will report all files with digital signature signed by certificates issued by this Root CA as "potentially unwanted application" or "PUA".)<br>
-This CA has been replaced by our "Modern Root Certificate Authority" (RainCandy_RootCA.cer)
+(Microsoft Defender will report all files with digital signature signed by certificates issued by this Root CA as "potentially unwanted application" or "PUA")<br>
+This CA has been replaced by our "Modern Root Certificate Authority" (RainCandy_RootCA.cer).
 
 ## Introduction
 We created these self-signed certificates for certain purposes.
