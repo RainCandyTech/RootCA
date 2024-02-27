@@ -2,8 +2,8 @@
 关于雨糖科技自签证书（[中文介绍请看这里](http://raincandy.1337.moe/zrootca/)）。
 
 ## Notice
-The "New RainCandy Technology Primary Root CA" (New_RCRoot.cer) is now deprecated, because it has been blacklisted by Microsoft Defender.
-(Microsoft Defender will report all files with digital signature signed by certificates issued by this Root CA as "potentially unwanted application" or "PUA".)
+The "New RainCandy Technology Primary Root CA" (New_RCRoot.cer) is now deprecated, because it has been blacklisted by Microsoft Defender.<br>
+(Microsoft Defender will report all files with digital signature signed by certificates issued by this Root CA as "potentially unwanted application" or "PUA".)<br>
 This CA has been replaced by our "Modern Root Certificate Authority" (RainCandy_RootCA.cer)
 
 ## Introduction
